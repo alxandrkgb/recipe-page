@@ -12,10 +12,6 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://recipe-page-devchallenge.netlify.app/">
-      Solution
-    </a>
-    <span> | </span>
     <a href="https://https://devchallenges.io/challenges/OEKdUZ6xs0h99C38XVht">
       Challenge
     </a>
